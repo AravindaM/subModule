@@ -1,0 +1,6 @@
+[submodule "awesome-microservices"]
+	path = awesome-microservices
+	url = https://github.com/AravindaM/awesome-microservices.git
+[submodule "nodezoo-workshop"]
+	path = nodezoo-workshop
+	url = https://github.com/AravindaM/nodezoo-workshop.git
